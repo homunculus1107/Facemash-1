@@ -2,7 +2,7 @@ Facemash
 ========
 
 Facemash is a website created by Mark Zuckerberg in 2003, where you had to choose between two hot girls.
-![Image](https://github.com/watdafek/Facemash/blob/master/description.png)
+![Image](https://raw.github.com/watdafek/Facemash/master/description.png)
 
 How to install it on your computer ?
 ====================================
