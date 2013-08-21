@@ -53,8 +53,6 @@ catch (Exception $error)
 					<p id="or">OR</p>
 					<a href="vote.php?id=<?php echo $photo2['id'] ?>&amp;photo=second"><img src="images/<?php echo $photo2['photo'] ?>" /></a>
 				</div>
-			<?php
-			?>
 		</div>
 
 	</body>
