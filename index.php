@@ -56,7 +56,6 @@ catch (Exception $error)
 			<?php
 			?>
 		</div>
-		<a href="stats.php" id="statistics">Statistics</a>
 
 	</body>
 </htmL>
