@@ -1,7 +1,7 @@
 Facemash
 ========
 
-Facemash is a site created by Mark Zuckerberg in 2003, where you must choose between two hot girls.
+Facemash is a website created by Mark Zuckerberg in 2003, where you had to choose between two hot girls.
 
 How to install it on your computer ?
 ====================================
@@ -12,4 +12,4 @@ Put all you images in the folder called "images" then copy and past the photos n
 /!\ WARNING /!\
 ===============
 
-Do not publish the site on the internet !
+Do not publish the site on the internet with stolen photos !
