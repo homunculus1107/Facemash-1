@@ -8,7 +8,7 @@ How to install it on your computer ?
 ====================================
 
 Create a database "facemash" and a table "photos". 
-Put all you images in the folder called "images" then copy and past the photos names in the database.
+Put all you images in the folder "images" then insert their names and extension in the database.
 
 /!\ WARNING /!\
 ===============
