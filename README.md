@@ -13,4 +13,4 @@ Put all you images in the folder "images" then insert their names and extension 
 /!\ WARNING /!\
 ===============
 
-Do not publish the site on the internet with stolen photos !
+Do not publish the site on the internet with stolen photos ! I am not responsable of the content you use on the site.
