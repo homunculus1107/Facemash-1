@@ -4,10 +4,10 @@ Facemash
 Facemash is a website created by Mark Zuckerberg in 2003, where you had to choose between two hot girls.
 ![Image](https://raw.github.com/watdafek/Facemash/master/description.png)
 
-How to install it on your computer ?
+How to install it ?
 ====================================
 
-Create a database "facemash" and a table "photos". 
+Create a database called "facemash" and a table called "photos". 
 Put all you images in the folder "images" then insert their names and extension in the database.
 
 /!\ WARNING /!\
